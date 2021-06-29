@@ -1,4 +1,4 @@
-package com.example.xiangxueketang.lesson2.task;
+package com.example.xiangxueketang.lesson2.task_lesson_2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -25,3 +25,4 @@ public class SecondActivity extends AppCompatActivity {
         ((TextView)findViewById(R.id.name_tv)).setText(name+":"+mNo);
     }
 }
+
