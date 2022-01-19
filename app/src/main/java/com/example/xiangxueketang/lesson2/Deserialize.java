@@ -75,6 +75,11 @@ public class Deserialize {
 
         /**
          * 成功获取到类型com.example.xiangxueketang.Deserialize$Data
+         * 加了花括号，代表匿名内部类,保存了类的类型
+         * 相当于创建
+         * static class ChildTypeToken{
+         *     Response<Data> t;
+         * }
          * */
 //        Type type =new TypeToken<Response<Data>>(){}.getType();
 //        Response<Data> response = gson.fromJson(json,type);

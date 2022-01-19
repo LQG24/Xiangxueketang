@@ -1,2 +1,6 @@
+include ':kotlintest'
+include ':DerryPlayer'
+include ':materialdesign1'
+include ':materialdesign'
 include ':app'
 rootProject.name = "Xiangxueketang"
