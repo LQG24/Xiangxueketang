@@ -16,7 +16,7 @@ import com.example.xiangxueketang.generics.generics_method.FoodManager;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-public class ExampleUnitTest {
+public class GenericsTest {
     @Test
     public void addition_isCorrect() {
 //        assertEquals(4, 2 + 2);
